@@ -58,8 +58,4 @@ int main(){
 
 
     return 0;
-}Cavalo utilizando loops com variáveis múltiplas e condições avançadas.
-    // Inclua o uso de continue e break dentro dos loops.
-
-    return 0;
 }
